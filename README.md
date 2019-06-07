@@ -3,8 +3,8 @@ A solution to find the best cities in France to invest in real estate based on b
 ### Projet réalisé par :
 Kim-Anh Laura Nguyen
 Arij Riabi
-###Promo DAC 2018-2019
-###Enseignants :
+### Promo DAC 2018-2019
+### Enseignants :
 Laure Soulier
 Benjamin Piwowarski
 Clara Gainon de Forsan de Gabriac
