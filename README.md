@@ -1,8 +1,7 @@
 # Real_Estate_Invest_BI
 A solution to find the best cities in France to invest in real estate based on business intelligence
 ### Projet réalisé par :
-Kim-Anh Laura Nguyen
-Arij Riabi
+Kim-Anh Laura Nguyen et Arij Riabi
 ### Promo DAC 2018-2019
 ### Enseignants :
 Laure Soulier
