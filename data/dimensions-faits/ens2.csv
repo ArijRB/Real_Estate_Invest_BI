@@ -1,0 +1,40 @@
+Departement;ID;Ville;Region;College;Lycee_general_technologique;Lycee_professionnel
+13;2996;Aix-en-Provence     ;93;15;14;12
+80;2995;Amiens              ;32;16;13;12
+49;2990;Angers              ;52;21;11;7
+95;3011;Argenteuil          ;11;12;6;1
+25;3002;Besançon            ;27;11;7;10
+33;2982;Bordeaux            ;75;24;24;20
+92;3007;Boulogne-Billancourt;11;7;5;0
+29;2992;Brest               ;53;17;14;5
+14;3003;Caen                ;28;15;12;8
+63;2994;Clermont-Ferrand    ;84;13;10;11
+21;2991;Dijon               ;27;18;13;1
+38;2989;Grenoble            ;84;15;16;5
+76;2984;Le Havre            ;28;20;7;7
+72;2993;Le Mans             ;52;24;9;7
+59;2986;Lille               ;32;22;18;13
+87;2997;Limoges             ;75;14;11;8
+69;2976;Lyon                ;84;45;42;25
+13;2975;Marseille           ;93;96;51;41
+57;3001;Metz                ;44;14;11;5
+34;2981;Montpellier         ;76;27;12;12
+93;3013;Montreuil           ;11;12;7;3
+68;3005;Mulhouse            ;44;9;7;6
+54;3009;Nancy               ;44;14;12;7
+44;2979;Nantes              ;52;32;22;11
+6;2978;Nice                ;93;33;24;12
+30;2998;Nîmes               ;76;18;10;8
+45;3004;Orléans             ;24;12;9;6
+75;2974;Paris               ;11;193;188;49
+66;3008;Perpignan           ;76;13;8;3
+51;2985;Reims               ;44;18;13;6
+35;2983;Rennes              ;53;19;15;9
+59;3010;Roubaix             ;32;12;7;6
+76;3006;Rouen               ;28;13;10;6
+67;2980;Strasbourg          ;44;32;26;8
+83;2988;Toulon              ;93;14;9;7
+31;2977;Toulouse            ;76;39;28;25
+59;3012;Tourcoing           ;32;10;8;2
+37;2999;Tours               ;24;20;11;12
+69;3000;Villeurbanne        ;84;11;5;4

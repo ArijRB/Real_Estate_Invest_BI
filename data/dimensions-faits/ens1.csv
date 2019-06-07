@@ -1,0 +1,40 @@
+Departement;ID;Ville;Region;Ecole_maternelle;Ecole_elementaire
+13;2996;Aix-en-Provence     ;93;37;51
+80;2995;Amiens              ;32;34;60
+49;2990;Angers              ;52;23;55
+95;3011;Argenteuil          ;11;28;29
+25;3002;Besançon            ;27;36;38
+33;2982;Bordeaux            ;75;45;71
+92;3007;Boulogne-Billancourt;11;18;20
+29;2992;Brest               ;53;13;53
+14;3003;Caen                ;28;13;36
+63;2994;Clermont-Ferrand    ;84;32;38
+21;2991;Dijon               ;27;41;53
+38;2989;Grenoble            ;84;25;46
+76;2984;Le Havre            ;28;50;56
+72;2993;Le Mans             ;52;36;52
+59;2986;Lille               ;32;45;68
+87;2997;Limoges             ;75;31;40
+69;2976;Lyon                ;84;78;135
+13;2975;Marseille           ;93;220;290
+57;3001;Metz                ;44;35;37
+34;2981;Montpellier         ;76;53;80
+93;3013;Montreuil           ;11;26;26
+68;3005;Mulhouse            ;44;33;25
+54;3009;Nancy               ;44;22;33
+44;2979;Nantes              ;52;49;96
+6;2978;Nice                ;93;66;113
+30;2998;Nîmes               ;76;40;54
+45;3004;Orléans             ;24;31;41
+75;2974;Paris               ;11;324;502
+66;3008;Perpignan           ;76;29;36
+51;2985;Reims               ;44;48;60
+35;2983;Rennes              ;53;35;61
+59;3010;Roubaix             ;32;17;46
+76;3006;Rouen               ;28;27;37
+67;2980;Strasbourg          ;44;55;70
+83;2988;Toulon              ;93;41;52
+31;2977;Toulouse            ;76;95;125
+59;3012;Tourcoing           ;32;24;40
+37;2999;Tours               ;24;25;46
+69;3000;Villeurbanne        ;84;24;32

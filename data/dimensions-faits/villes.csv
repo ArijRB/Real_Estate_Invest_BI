@@ -1,0 +1,41 @@
+Ville;Population_totale;ID;Region;Superficie;Densite_habitants;Departement
+Aix-en-Provence     ;140684;2996;PROVENCE-ALPES-COTE D'AZUR         ;187.6;750;BOUCHES-DU-RHONE    
+Amiens              ;133327;2995;NORD-PAS-DE-CALAIS-PICARDIE        ;50.1;2661.7;SOMME               
+Angers              ;148803;2990;PAYS DE LA LOIRE                   ;44.3;3356.7;MAINE-ET-LOIRE      
+Argenteuil          ;104282;3011;ILE-DE-FRANCE                      ;17.4;5996.7;VAL-D'OISE          
+Besançon            ;115879;3002;BOURGOGNE-FRANCHE-COMTE            ;65.1;1780;DOUBS               
+Bordeaux            ;239399;2982;AQUITAINE-LIMOUSIN-POITOU-CHARENTES;49.7;4816.9;GIRONDE             
+Boulogne-Billancourt;116220;3007;ILE-DE-FRANCE                      ;6.2;18897.6;HAUTS-DE-SEINE      
+Brest               ;140547;2992;BRETAGNE                           ;49.1;2861.3;FINISTERE           
+Caen                ;108793;3003;NORMANDIE                          ;25.7;4228.3;CALVADOS            
+Clermont-Ferrand    ;140957;2994;AUVERGNE-RHONE-ALPES               ;43.1;3272.7;PUY-DE-DOME         
+Dijon               ;151672;2991;BOURGOGNE-FRANCHE-COMTE            ;41.6;3646;COTE-D'OR           
+Grenoble            ;157424;2989;AUVERGNE-RHONE-ALPES               ;18.5;8491;ISERE               
+Le Havre            ;174156;2984;NORMANDIE                          ;57.4;3034.6;SEINE-MARITIME      
+Le Mans             ;143240;2993;PAYS DE LA LOIRE                   ;52.6;2722.7;SARTHE              
+Lille               ;227533;2986;NORD-PAS-DE-CALAIS-PICARDIE        ;35;6504.7;NORD                
+Limoges             ;137758;2997;AQUITAINE-LIMOUSIN-POITOU-CHARENTES;79.7;1728.2;HAUTE-VIENNE        
+Lyon                ;491268;2976;;;;
+Marseille           ;850636;2975;;;;
+Metz                ;119962;3001;ALSACE-CHAMPAGNE-ARDENNE-LORRAINE  ;41.7;2876.1;MOSELLE             
+Montpellier         ;264538;2981;LANGUEDOC-ROUSSILLON-MIDI-PYRENEES ;57.1;4631.3;HERAULT             
+Montreuil           ;103068;3013;ILE-DE-FRANCE                      ;8.9;11580.7;SEINE-SAINT-DENIS   
+Mulhouse            ;110351;3005;ALSACE-CHAMPAGNE-ARDENNE-LORRAINE  ;22.4;4930.8;HAUT-RHIN           
+Nancy               ;105382;3009;ALSACE-CHAMPAGNE-ARDENNE-LORRAINE  ;14.9;7053.7;MEURTHE-ET-MOSELLE  
+Nantes              ;287845;2979;PAYS DE LA LOIRE                   ;65.8;4376.5;LOIRE-ATLANTIQUE    
+Nice                ;344064;2978;PROVENCE-ALPES-COTE D'AZUR         ;73.9;4654.5;ALPES-MARITIMES     
+Nîmes               ;144940;2998;LANGUEDOC-ROUSSILLON-MIDI-PYRENEES ;161.2;899.2;GARD                
+Orléans             ;114185;3004;CENTRE-VAL DE LOIRE                ;27.6;4138.6;LOIRET              
+Paris               ;2249975;2974;;;;
+Perpignan           ;118238;3008;LANGUEDOC-ROUSSILLON-MIDI-PYRENEES ;68.3;1730.9;PYRENEES-ORIENTALES 
+Reims               ;180752;2985;ALSACE-CHAMPAGNE-ARDENNE-LORRAINE  ;46.9;3851.5;MARNE               
+Rennes              ;208033;2983;BRETAGNE                           ;50.4;4130.9;ILLE-ET-VILAINE     
+Roubaix             ;94186;3010;NORD-PAS-DE-CALAIS-PICARDIE        ;13.2;7129.9;NORD                
+Rouen               ;111553;3006;NORMANDIE                          ;21.4;5207.9;SEINE-MARITIME      
+Saint-Étienne       ;170049;2987;AUVERGNE-RHONE-ALPES               ;80;2126.7;LOIRE               
+Strasbourg          ;272222;2980;ALSACE-CHAMPAGNE-ARDENNE-LORRAINE  ;78.1;3486;BAS-RHIN            
+Toulon              ;163974;2988;PROVENCE-ALPES-COTE D'AZUR         ;44.2;3710.7;VAR                 
+Toulouse            ;447340;2977;LANGUEDOC-ROUSSILLON-MIDI-PYRENEES ;118.1;3788.1;HAUTE-GARONNE       
+Tourcoing           ;92018;3012;NORD-PAS-DE-CALAIS-PICARDIE        ;15.2;6057.8;NORD                
+Tours               ;134633;2999;CENTRE-VAL DE LOIRE                ;33.4;4035.8;INDRE-ET-LOIRE      
+Villeurbanne        ;145034;3000;AUVERGNE-RHONE-ALPES               ;14.9;9760;RHONE               
