@@ -8,7 +8,7 @@ Laure Soulier
 Benjamin Piwowarski
 Clara Gainon de Forsan de Gabriac
 
-
+### Introduction :
 Vous souhaitez investir dans l’immobilier en France mais l’instabilité du marché vous effraie ?
 Chez Estatesy, nous vous offrons une solution alliant outils de business intelligence et savoir-faire
 immobilier pour vous proposer les meilleures villes où investir.
